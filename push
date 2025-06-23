@@ -1,5 +1,5 @@
 
-git commit -m "finalized and tested for the test"
+git commit -m "added read me"
 git branch -M main
 git remote add origin git@github.com:nashnc/machinetest-ateam.git
 git push -u origin main
