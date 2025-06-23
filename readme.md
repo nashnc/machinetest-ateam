@@ -168,5 +168,3 @@ Team
 
 *   Super Admin - Project Lead (super.admin@ateam.com)
 *   \[Add other team members here\]
-
-For inquiries, contact the team at \[insert contact email or link to issues page\].
