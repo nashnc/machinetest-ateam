@@ -20,7 +20,6 @@ Table of Contents
   - [Contributing](#contributing)
   - [License](#license)
   - [Team](#team)
-    - [Notes on Updates](#notes-on-updates)
 
 Features
 --------
@@ -171,9 +170,3 @@ Team
 *   \[Add other team members here\]
 
 For inquiries, contact the team at \[insert contact email or link to issues page\].
-
-### Notes on Updates
-
-*   **Markdown Formatting**: Ensured proper Markdown syntax:
-    *   Headers use `#` hierarchy.
-    *   Code blocks use triple backticks (
